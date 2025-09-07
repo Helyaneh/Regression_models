@@ -1,0 +1,11 @@
+Highly Correlated Pairs (|ρ| > 0.7):
+
+Model 1:
+ Q34 - Q29: 0.717 
+
+Model 2:
+ No pairs with |ρ| > 0.7 
+
+Model 3:
+ Q34 - Q29: 0.717 
+
